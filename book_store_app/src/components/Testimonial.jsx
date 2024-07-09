@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/jsx-key */
 import React from "react";
 import Slider from "react-slick";
 // import Img from "../assets/images.jpg";
